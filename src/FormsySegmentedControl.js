@@ -4,6 +4,9 @@ import { withFormsy } from 'formsy-react'
 import SegmentedControl from './SegmentedControl'
 
 class FormsySegmentedControl extends Component {
+
+
+
   render() {
     return (
       <SegmentedControl
